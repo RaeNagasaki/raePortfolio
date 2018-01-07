@@ -1,0 +1,154 @@
+div.top {
+    background-color: white;
+    height: 70px;
+    width: 500px;
+    border-bottom: solid 1px #d9d9d9;
+    margin: auto;
+}
+div.brandpicture {
+    display: inline-block;
+    margin-top: 15px;
+}
+div.brandpicture #faceImage1 {
+    height: 40px;
+    width: 40px;
+    padding-right: 15px;
+    border-right: solid 1px black;
+}
+div.brandName {
+    font-family: cursive;
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+}
+div.brandName h1 {
+    width: 180px;
+    height: 40px;
+    margin-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.rest {
+    background-color: #f2f2f2;
+}
+.profileInfo{
+    height: 200px;
+    width: 450px;
+    margin: auto;
+}
+.profilePicture {
+    display: inline-block;
+}
+div.profileName {
+    display: inline-block;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+#profileImage {
+    border-radius: 50%;
+    height: 150px;
+    margin-top: 30px;   
+}
+div.profileName p {
+    font-family: fantasy;
+}
+div.firstRow{
+    height: 330px;
+    width: 1000px;
+    margin: auto;
+}
+div.picOne {
+    display: inline-block;
+}
+#pic1 {
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+div.picTwo {
+    display: inline-block;
+}
+#pic2 {
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+div.picThree {
+    display: inline-block;
+}
+#pic3 {
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+div.secondRow{
+    height: 330px;
+    width: 1000px;
+    margin: auto;
+}
+div.picFour {
+    display: inline-block;
+}
+#pic4 {
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+div.picFive {
+    display: inline-block;
+}
+#pic5 {
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+div.picSix {
+    display: inline-block;
+}
+#pic6 {
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+
+div.thirdRow{
+    height: 330px;
+    width: 1000px;
+    margin: auto;
+}
+div.picSeven {
+    display: inline-block;
+}
+#pic7 {
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+div.picEight {
+    display: inline-block;
+}
+#pic8 {
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+div.picNine {
+    display: inline-block;
+}
+#pic9 {
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+}
+.bottom {
+    height: 30px;
+    width: 1000px;
+    margin: auto;
+    color: gray;
+}
+div.bottom h3{
+    margin-left: 850px;
+    font-family: monospace;
+}
