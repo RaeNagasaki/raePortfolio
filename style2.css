@@ -1,0 +1,33 @@
+#profileImage {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+span.labelInfo {
+	display: inline-block;
+	margin-right: 15px;
+}
+#brandImage {
+	display: inline-block;
+	margin-right: 10px;
+}
+div.brand {
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+div.profile {
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+body {
+	background-color: #f2f2f2;
+}
+div.topPart {
+	background-color: white;
+}
+div.footer {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
